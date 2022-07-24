@@ -1,2 +1,203 @@
 # DigimonFrench
-French Digi-Battle Digimon card list
+
+French Digi-Battle Digimon card list v1
+
+Bo-03 Leomon 1st Edition
+Bo-04 Ogremon
+Bo-05 Meramon
+Bo-06 Seadramon 1st Edition
+Bo-08 ShogunGekomon
+Bo-09 Shellmon 1st Edition
+Bo-10 Drimogamon
+Bo-11 Andromon
+Bo-12 Monochromon
+Bo-13 Kuwagamon
+Bo-14 Mojyamon
+Bo-15 Gatomon (Gold text)
+Bo-18 Ebidramon
+Bo-19 Gorillamon
+Bo-20 Vilemon
+Bo-21 Minotarumon 
+Bo-22 LadyDevimon
+Bo-26 Jagamon
+Bo-29 Syakomon
+Bo-30 Gesomon
+Bo-30 Gesomon 1st Edition
+Bo-33 Dragomon
+Bo-36 Tapirmon
+Bo-40 SkullMammothmon
+Bo-41 Boltmon (Gold text)
+Bo-56 Kokatorimon
+Bo-58 Whamon
+Bo-59 Sukamon
+Bo-60 Gazimon
+Bo-61 Elecmon
+Bo-63 Numemon
+Bo-64 Mamemon
+Bo-65 MetalMamemon
+Bo-66 Tyrannomon
+Bo-67 Datamon
+Bo-68 Giromon
+Bo-69 Megadramon
+Bo-70 Digitamamon
+Bo-71 Gizamon
+Bo-72 Raremon
+Bo-73 ExTyrannomon
+Bo-74 Deltamon
+Bo-75 Tuskmon
+Bo-78 Cyclonemon
+Bo-79 DarkTyrannomon
+Bo-80 MetalGreymon (Gold text)
+Bo-81 Floramon
+Bo-82 Mushroomon
+Bo-83 Veedramon
+Bo-85 Kiwimon
+Bo-86 Woodmon
+Bo-87 RedVegiemon
+Bo-89 Garudamon
+Bo-90 Blossomon
+Bo-91 Deramon
+Bo-92 Cherrymon
+Bo-93 Garbagemon
+Bo-95 Gryphonmon
+Bo-97 Digivice Green
+Bo-98 Digivice Red & Yellow
+Bo-99 Crest Tag
+Bo-102 Symbole de Sincérité
+Bo-103 Crest of Friendship
+Bo-105 Innondation
+Bo-106 Meat
+Bo-108 Pluck
+Bo-109 Penguinmon
+Bo-110 SnowAgumon
+Bo-111 Aruraumon
+Bo-112 ClearAgumon
+Bo-113 SnowGoburimon
+Bo-114 Keramon
+Bo-115 Sharmamon
+Bo-116 Fugamon
+Bo-117 J-Mojyamon
+Bo-118 Gururumon
+Bo-119 Saberdramon
+Bo-120 Icemon
+Bo-120 Icemon 
+Bo-121 Akatorimon
+Bo-121 Akatorimon 
+Bo-122 Geremon
+Bo-123 ShellNumemon
+Bo-124 Darkrizamon
+Bo-125 Kurisarimon
+Bo-126 Divermon
+Bo-127 Panjyamon
+Bo-128 BlueMeramon
+Bo-129 Lillymon
+Bo-130 Meteormon 
+Bo-132 WaruSeadramon
+Bo-133 MasterTyrannomon
+Bo-134 SkullSatamon 
+Bo-134 SkullSatanmon
+Bo-135 Preciomon 
+Bo-135 Preciomon
+Bo-136 VenomMyotismon (Foil)
+Bo-136 VenomMyotismon (Foil) 
+Bo-137 Jijimon
+Bo-138 Apokarimon (Gold text)
+Bo-139 Goldramon (Gold text)
+Bo-140 Rosemon (Foil)
+Bo-140 Rosemon (Foil) 
+Bo-141 Millenniummon (Foil)
+Bo-141 Millenniummon (Foil) 
+Bo-142 Creepymon
+Bo-143 Symbole de la Connaissa...
+Bo-143 Symbole de la Connaissa...
+Bo-144 Symbole de l'Espoir
+Bo-145 Symbole de l'Amour
+Bo-146 Symbole de la Lumiére
+Bo-147 Ultra Digivolution ADN
+Bo-148 Ultra Digivice
+Bo-149 Resurrection
+Bo-150 Puce Booster 
+Bo-150 Puce Booster
+Bo-151 Digi-Analyzer
+Bo-152 Revanche
+Bo-153 Combinaison
+Bo-154 Double Puissance 
+Bo-155 Super Puissance 
+Bo-156 Perseverance 
+Bo-159 HoneyBeemon
+Bo-160 Depthmon
+Bo-163 Kangarumon
+Bo-164 Shadramon
+Bo-167 Aurumon
+Bo-172 Quetzalmon
+Bo-177 Ponchomon
+Bo-178 Mothmon
+Bo-180 Manbomon
+Bo-183 Rinkmon
+Bo-186 Orcamon
+Bo-188 Harpymon
+Bo-190 Boarmon
+Bo-191 Sepikmon
+Bo-202 Kabukimon (Gold text)
+Bo-204 Tylomon
+Bo-206 Opossummon
+Bo-207 Digi-Zone Continent
+Bo-209 Digi-Zone Eruption
+
+St-28S MegaKabuterimon (Foil)
+St-30S Piximon (Foil)
+St-35S Dolphmon (Foil)
+St-38 Zudomon (Foil)
+
+Mp-63 Hagurumon
+Mp-64 Kokuwamon
+Mp-65 ToyAgumon
+Mp-67 Goburimon
+Mp-68 Muchomon
+Mp-69 Tankmon
+Mp-70 Deputymon
+Mp-71 Mekanorimon
+Mp-72 Clockmon
+Mp-73 Guardromon
+Mp-74 Flarerizamon
+Mp-75 Thunderballmon
+Mp-76 ShimaUnimon
+Mp-77 Soulmon
+Mp-78 Hyogamon 
+Mp-79 Piddomon 
+Mp-80 WaruMonzaemon
+Mp-81 Bigmamemon
+Mp-82 Knightmon
+Mp-83 Cyderdramon
+Mp-84 WarGreymon 
+Mp-86 IceDevimon
+Mp-88 Dokunemon
+Mp-89 Psychemon
+Mp-90 Tsukaimon
+Mp-91 ModokiBetamon
+Mp-92 PlatinumSukamon
+Mp-93 MoriShellmon
+Mp-94 Ninjamon
+Mp-95 NiseDrimogemon
+Mp-96 Airdramon
+Mp-97 Devidramon
+Mp-98 Vegiemon
+Mp-101 Yanmamon 
+Mp-102 SandYanmamon
+Mp-103 MetalTyrannomon
+Mp-104 Vermilimon 
+Mp-105 Vademon
+Mp-106 Brachiomon 
+Mp-107 Gigadramon
+Mp-108 Tekkamon
+Mp-109 Babamon 
+Mp-110 Flymon 
+Mp-111 Particule Energie Rouge
+Mp-112 Particule Energie Jaune
+Mp-115 Disquette Booster
+Mp-116 Puce Malefique
+Mp-117 Reseau Megabug
+Mp-119 Digi-Antidote
+Mp-120 Anti-Declassement
+Mp-121 Digivice Anti Virus 
+Mp-123 Digivice Anti virus & D...
